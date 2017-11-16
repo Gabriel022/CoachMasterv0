@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoachMasterv0</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcomeText">Welcome To The Coach Master V0</string>
+    <string name="feedbackButtonText">Send FeedBack</string>
+    <string name="playerButtonText">I am a Player</string>
+    <string name="coachButtonText">I am a Coach</string>
+</resources>
