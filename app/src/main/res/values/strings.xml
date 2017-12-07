@@ -3,6 +3,12 @@
     <string name="action_settings">Settings</string>
     <string name="welcomeText">Welcome To The Coach Master V0</string>
     <string name="feedbackButtonText">Send FeedBack</string>
-    <string name="playerButtonText">I am a Player</string>
-    <string name="coachButtonText">I am a Coach</string>
+    <string name="playerButtonText">I am a Player!</string>
+    <string name="coachButtonText">I am a Coach!</string>
+    <string name="title_activity_player">PlayerActivity</string>
+    <string name="title_activity_coach">coachActivity</string>
+    <string name="title_activity_feed_back">FeedBackActivity</string>
+    <string name="feedBackText">Write FeedBack</string>
+    <string name="feedBackButton">Send!</string>
+    <string name="title_activity_settings">SettingsActivity</string>
 </resources>
