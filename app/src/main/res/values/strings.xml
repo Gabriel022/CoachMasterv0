@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CoachMaster V0</string>
+    <string name="app_name">CoachPro V0</string>
     <string name="action_settings">Settings</string>
     <string name="welcomeText">Welcome To The Coach Master V0</string>
     <string name="feedbackButtonText">Send FeedBack</string>
@@ -16,6 +16,10 @@
     <string name="configTextView">App\'s Sound: On or Off</string>
     <string name="InverntThemeText">Invert The App\'s Theme</string>
     <string name="CameraText">Camera</string>
+    <string name="RateText">Rate This App</string>
+    <string name="newScoreText">Add New Score</string>
+    <string name="newPlayerText">Add New Player</string>
+    <string name="listButtonText">See Player\'s List</string>
 </resources>
 
 

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoachPro V0</string>
+    <string name="app_name">CoachPro V0</string>
+    <string name="RateText">Avalie Este Aplcativo</string>
+    <string name="InverntThemeText">Troque o tema do App</string>
+    <string name="action_settings">Configurações</string>
+    <string name="coachButtonText">Eu sou um Treinador!</string>
+
+</resources>

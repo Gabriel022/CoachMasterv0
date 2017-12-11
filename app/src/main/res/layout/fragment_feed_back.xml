@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
     tools:context="com.example.cisc.coachmasterv0.FeedBackActivityFragment"
     tools:showIn="@layout/activity_feed_back">
 
@@ -26,20 +27,20 @@
             android:textSize="45sp" />
 
         <EditText
-            android:id="@+id/editText"
+            android:id="@+id/feedBackeditText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_below="@+id/feedBackText"
+            android:layout_centerHorizontal="true"
             android:layout_marginTop="41dp"
             android:ems="16"
-            android:inputType="textMultiLine"
-            android:layout_below="@+id/feedBackText"
-            android:layout_centerHorizontal="true" />
+            android:inputType="textMultiLine" />
 
         <Button
             android:id="@+id/feedBackSendButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/editText"
+            android:layout_below="@+id/feedBackeditText"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="97dp"
             android:text="@string/feedBackButton"
