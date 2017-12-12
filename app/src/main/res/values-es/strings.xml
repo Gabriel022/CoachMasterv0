@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoachPro V0</string>
+    <string name="InverntThemeText">Mude lo App tematica</string>
+    <string name="RateText">Avalise este App!</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="coachButtonText">Trenador!</string>
+    <string name="configTextView">Som:</string>
+    <string name="feedBackButton">Enviar!</string>
+    <string name="feedBackText">Escreva La Sugestion</string>
+    <string name="feedbackButtonText">Enviar Suggestiones</string>
+    <string name="listButtonText">Veja lista de jugadores</string>
+    <string name="newPlayerText">Nuevo Jogador</string>
+    <string name="newScoreText">Nuevo Tiempo</string>
+    <string name="playerButtonText">Soy Jogador</string>
+    <string name="soundButtonText">Som</string>
+    <string name="title_activity_coach">Trenador</string>
+    <string name="title_activity_feed_back">Pagina De Sugestion</string>
+    <string name="title_activity_player">Jogador!</string>
+    <string name="title_activity_settings">Configuraciones</string>
+    <string name="welcomeText">Bien Vindo Al Maestro App</string>
+</resources>

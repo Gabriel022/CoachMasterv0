@@ -11,7 +11,7 @@
     <string name="feedBackText">Write FeedBack</string>
     <string name="feedBackButton">Send!</string>
     <string name="title_activity_settings">SettingsActivity</string>
-    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_splash_screen" translatable="false">SplashScreenActivity</string>
     <string name="soundButtonText">Sound</string>
     <string name="configTextView">App\'s Sound: On or Off</string>
     <string name="InverntThemeText">Invert The App\'s Theme</string>
